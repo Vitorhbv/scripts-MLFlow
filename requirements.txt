@@ -1,0 +1,7 @@
+boto3==1.35.63
+mlflow==2.20.1
+openai
+tiktoken
+langchain
+langchain-community
+beautifulsoup4
