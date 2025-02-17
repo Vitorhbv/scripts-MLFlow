@@ -5,3 +5,6 @@ tiktoken
 langchain
 langchain-community
 beautifulsoup4
+tenacity
+textstat
+ollama
